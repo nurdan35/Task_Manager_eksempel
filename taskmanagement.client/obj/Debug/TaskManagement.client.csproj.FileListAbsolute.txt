@@ -1,0 +1,2 @@
+C:\Users\mrden\Documents\Repo\TaskManagement\taskmanagement.client\obj\Debug\TaskManagement.client.csproj.CoreCompileInputs.cache
+C:\Users\nurda\OneDrive\Skrivebord\TaskManagement_dnz\taskmanagement.client\obj\Debug\TaskManagement.client.csproj.CoreCompileInputs.cache

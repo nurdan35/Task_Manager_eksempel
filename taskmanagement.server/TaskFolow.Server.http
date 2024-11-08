@@ -1,0 +1,6 @@
+@TaskFolow.Server_HostAddress = http://localhost:5092
+
+GET {{TaskFolow.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

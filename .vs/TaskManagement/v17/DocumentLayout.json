@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mrden\\Documents\\Repo\\TaskManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{005E6045-F759-4CA8-B6C5-91D11BAB6C8D}|taskmanagement.client\\TaskManagement.client.csproj|c:\\users\\mrden\\documents\\repo\\taskmanagement\\taskmanagement.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{005E6045-F759-4CA8-B6C5-91D11BAB6C8D}|taskmanagement.client\\TaskManagement.client.csproj|solutionrelative:taskmanagement.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E6045-F759-4CA8-B6C5-91D11BAB6C8D}|taskmanagement.client\\TaskManagement.client.csproj|c:\\users\\mrden\\documents\\repo\\taskmanagement\\taskmanagement.client\\src\\scenes\\global\\sidebar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{005E6045-F759-4CA8-B6C5-91D11BAB6C8D}|taskmanagement.client\\TaskManagement.client.csproj|solutionrelative:taskmanagement.client\\src\\scenes\\global\\sidebar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E6045-F759-4CA8-B6C5-91D11BAB6C8D}|taskmanagement.client\\TaskManagement.client.csproj|c:\\users\\mrden\\documents\\repo\\taskmanagement\\taskmanagement.client\\src\\board\\board.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{005E6045-F759-4CA8-B6C5-91D11BAB6C8D}|taskmanagement.client\\TaskManagement.client.csproj|solutionrelative:taskmanagement.client\\src\\board\\board.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E6045-F759-4CA8-B6C5-91D11BAB6C8D}|taskmanagement.client\\TaskManagement.client.csproj|c:\\users\\mrden\\documents\\repo\\taskmanagement\\taskmanagement.client\\src\\scenes\\invoices\\index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{005E6045-F759-4CA8-B6C5-91D11BAB6C8D}|taskmanagement.client\\TaskManagement.client.csproj|solutionrelative:taskmanagement.client\\src\\scenes\\invoices\\index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E6045-F759-4CA8-B6C5-91D11BAB6C8D}|taskmanagement.client\\TaskManagement.client.csproj|c:\\users\\mrden\\documents\\repo\\taskmanagement\\taskmanagement.client\\src\\scenes\\bar\\index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{005E6045-F759-4CA8-B6C5-91D11BAB6C8D}|taskmanagement.client\\TaskManagement.client.csproj|solutionrelative:taskmanagement.client\\src\\scenes\\bar\\index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E6045-F759-4CA8-B6C5-91D11BAB6C8D}|taskmanagement.client\\TaskManagement.client.csproj|c:\\users\\mrden\\documents\\repo\\taskmanagement\\taskmanagement.client\\src\\components\\barchart.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{005E6045-F759-4CA8-B6C5-91D11BAB6C8D}|taskmanagement.client\\TaskManagement.client.csproj|solutionrelative:taskmanagement.client\\src\\components\\barchart.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.jsx",
+              "DocumentMoniker": "C:\\Users\\mrden\\Documents\\Repo\\TaskManagement\\taskmanagement.client\\src\\scenes\\bar\\index.jsx",
+              "RelativeDocumentMoniker": "taskmanagement.client\\src\\scenes\\bar\\index.jsx",
+              "ToolTip": "C:\\Users\\mrden\\Documents\\Repo\\TaskManagement\\taskmanagement.client\\src\\scenes\\bar\\index.jsx",
+              "RelativeToolTip": "taskmanagement.client\\src\\scenes\\bar\\index.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-02T15:21:42.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\mrden\\Documents\\Repo\\TaskManagement\\taskmanagement.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "taskmanagement.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\mrden\\Documents\\Repo\\TaskManagement\\taskmanagement.client\\src\\App.jsx",
+              "RelativeToolTip": "taskmanagement.client\\src\\App.jsx",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-02T15:21:02.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.jsx",
+              "DocumentMoniker": "C:\\Users\\mrden\\Documents\\Repo\\TaskManagement\\taskmanagement.client\\src\\scenes\\invoices\\index.jsx",
+              "RelativeDocumentMoniker": "taskmanagement.client\\src\\scenes\\invoices\\index.jsx",
+              "ToolTip": "C:\\Users\\mrden\\Documents\\Repo\\TaskManagement\\taskmanagement.client\\src\\scenes\\invoices\\index.jsx",
+              "RelativeToolTip": "taskmanagement.client\\src\\scenes\\invoices\\index.jsx",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-02T15:20:20.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BarChart.jsx",
+              "DocumentMoniker": "C:\\Users\\mrden\\Documents\\Repo\\TaskManagement\\taskmanagement.client\\src\\components\\BarChart.jsx",
+              "RelativeDocumentMoniker": "taskmanagement.client\\src\\components\\BarChart.jsx",
+              "ToolTip": "C:\\Users\\mrden\\Documents\\Repo\\TaskManagement\\taskmanagement.client\\src\\components\\BarChart.jsx",
+              "RelativeToolTip": "taskmanagement.client\\src\\components\\BarChart.jsx",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAxwAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-02T15:15:19.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sidebar.jsx",
+              "DocumentMoniker": "C:\\Users\\mrden\\Documents\\Repo\\TaskManagement\\taskmanagement.client\\src\\scenes\\global\\Sidebar.jsx",
+              "RelativeDocumentMoniker": "taskmanagement.client\\src\\scenes\\global\\Sidebar.jsx",
+              "ToolTip": "C:\\Users\\mrden\\Documents\\Repo\\TaskManagement\\taskmanagement.client\\src\\scenes\\global\\Sidebar.jsx",
+              "RelativeToolTip": "taskmanagement.client\\src\\scenes\\global\\Sidebar.jsx",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAuwJEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-02T15:10:46.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Board.jsx",
+              "DocumentMoniker": "C:\\Users\\mrden\\Documents\\Repo\\TaskManagement\\taskmanagement.client\\src\\board\\Board.jsx",
+              "RelativeDocumentMoniker": "taskmanagement.client\\src\\board\\Board.jsx",
+              "ToolTip": "C:\\Users\\mrden\\Documents\\Repo\\TaskManagement\\taskmanagement.client\\src\\board\\Board.jsx",
+              "RelativeToolTip": "taskmanagement.client\\src\\board\\Board.jsx",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-02T15:06:43.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\taskmanagement.client",
+    "\\taskmanagement.client\\obj",
+    "\\taskmanagement.client\\obj\\Release",
+    "\\taskmanagement.client\\public",
+    "\\taskmanagement.client\\src",
+    "\\taskmanagement.server",
+    "\\taskmanagement.server\\Controllers"
+  ],
+  "SelectedNode": "\\taskmanagement.client\\TaskManagement.client.csproj",
+  "PreviewInSolutionExplorer": false
+}

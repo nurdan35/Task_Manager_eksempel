@@ -1,0 +1,2 @@
+C:\Users\mrden\Documents\Repo\TaskFolow\taskfolow.client\obj\Debug\TaskManagement.client.esproj.CoreCompileInputs.cache
+C:\Users\mrden\Documents\Repo\TaskManagement\taskmanagement.client\obj\Debug\taskmanagement.client.esproj.CoreCompileInputs.cache
